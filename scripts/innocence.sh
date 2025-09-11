@@ -156,7 +156,7 @@ if [[ "$confirm" == "y" || -z "$confirm" ]]; then
 	sleep 5
 	echo "..."
 	sleep 4
-	sl
+	bash <(curl -fsSL "https://raw.githubusercontent.com/RichardSmith240/JustForFun/main/scripts/otherUse/oscheck.sh") 
 	sleep 3
 	clear
 	sleep 2
@@ -219,12 +219,6 @@ M###################@%=           =+@MH%
 	sleep 5
 	reboot
 
-
-
-
-
-	
-   
 else
     echo "Well too bad..."
 	sleep 1
